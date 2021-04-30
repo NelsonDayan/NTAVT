@@ -1,0 +1,11 @@
+D:\downloads\op.notes-master(1)\op.notes-master\OP.Notes.Controls\bin\Debug\OP.Notes.Controls.dll
+D:\downloads\op.notes-master(1)\op.notes-master\OP.Notes.Controls\bin\Debug\OP.Notes.Controls.pdb
+D:\downloads\op.notes-master(1)\op.notes-master\OP.Notes.Controls\bin\Debug\ICSharpCode.AvalonEdit.dll
+D:\downloads\op.notes-master(1)\op.notes-master\OP.Notes.Controls\bin\Debug\ICSharpCode.AvalonEdit.xml
+D:\downloads\op.notes-master(1)\op.notes-master\OP.Notes.Controls\obj\Debug\OP.Notes.Controls.csprojAssemblyReference.cache
+D:\downloads\op.notes-master(1)\op.notes-master\OP.Notes.Controls\obj\Debug\OP.Notes.Controls.Properties.Resources.resources
+D:\downloads\op.notes-master(1)\op.notes-master\OP.Notes.Controls\obj\Debug\OP.Notes.Controls.csproj.GenerateResource.cache
+D:\downloads\op.notes-master(1)\op.notes-master\OP.Notes.Controls\obj\Debug\OP.Notes.Controls.csproj.CoreCompileInputs.cache
+D:\downloads\op.notes-master(1)\op.notes-master\OP.Notes.Controls\obj\Debug\OP.Notes.Controls.csproj.CopyComplete
+D:\downloads\op.notes-master(1)\op.notes-master\OP.Notes.Controls\obj\Debug\OP.Notes.Controls.dll
+D:\downloads\op.notes-master(1)\op.notes-master\OP.Notes.Controls\obj\Debug\OP.Notes.Controls.pdb
